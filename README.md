@@ -1,1 +1,1 @@
-# js
+# Some practical js syntax 
